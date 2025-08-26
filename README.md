@@ -34,28 +34,28 @@
 
 ---
 
+---
+
 ### 🧰 Tech Toolbox
-<p>
-  <img src="https://img.shields.io/badge/Code-Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Code-PHP-777BB4?logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-C-A8B9CC?logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/Frontend-HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-CSS3-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI-Bootstrap-7952B3?logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framework-Laravel-FF2D20?logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Server-XAMPP-FB7A24?logo=xampp&logoColor=white" />
-  <img src="https://img.shields.io/badge/DB-MySQL-4479A1?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/DB-MariaDB-003545?logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/DB-MongoDB-47A248?logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/DB-Oracle-F80000?logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data-NumPy-013243?logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data-Pandas-150458?logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data-Matplotlib-11557c?logo=Plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data-SciPy-8CAAE6?logo=scipy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tools-Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/IDE-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white" />
-</p>
+<div align="center">
+
+<!-- First row -->
+<img src="https://skillicons.dev/icons?i=python,js,php,c,html,css&theme=light" />
+<br/><br/>
+
+<!-- Second row -->
+<img src="https://skillicons.dev/icons?i=bootstrap,laravel,mysql,mongodb,git,vscode&theme=light" />
+<img src="https://img.icons8.com/color/96/oracle-logo.png" width="48" height="48" alt="Oracle"/>
+
+<br/><br/>
+
+✨ **Languages & Frameworks:** Python, JavaScript, PHP, C, HTML5, CSS3, Bootstrap, Laravel  
+🗄️ **Databases:** MySQL, MariaDB, MongoDB, Oracle  
+🛠️ **Tools & IDEs:** Git, VS Code, XAMPP, SciPy, Pandas, NumPy, Matplotlib  
+
+</div>
+
+
 
 ---
 

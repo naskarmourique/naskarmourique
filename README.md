@@ -34,8 +34,6 @@
 
 ---
 
----
-
 ### 🧰 Tech Toolbox
 <div align="center">
 

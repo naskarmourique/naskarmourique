@@ -68,10 +68,18 @@ A complete solution for **donor registration**, **blood inventory management**, 
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naskarmourique&show_icons=true&include_all_commits=true&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naskarmourique&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naskarmourique&layout=compact&hide_border=true" height="160" />
+
+<!-- Main stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=naskarmourique&show_icons=true&hide_border=true&rank_icon=github" height="160" />
+
+<!-- Streak stats -->
+<img src="https://streak-stats.demolab.com?user=naskarmourique&theme=default&hide_border=true" height="160" />
+
+<!-- Top languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naskarmourique&layout=compact&langs_count=8&hide_border=true" height="160" />
+
 </div>
+
 
 ---
 

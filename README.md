@@ -42,7 +42,7 @@
 <br/><br/>
 
 <!-- Second row -->
-<img src="https://skillicons.dev/icons?i=bootstrap,laravel,mysql,mongodb,git,vscode&theme=light" />
+<img src="https://skillicons.dev/icons?i=bootstrap,laravel,mysql,mongodb,github,vscode&theme=light" />
 <img src="https://img.icons8.com/color/96/oracle-logo.png" width="48" height="48" alt="Oracle"/>
 
 <br/><br/>
